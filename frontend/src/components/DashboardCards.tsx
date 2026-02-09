@@ -103,7 +103,7 @@ export default function DashboardCards() {
       <div className="max-w-7xl mx-auto">
         <div className="mb-8">
           <h1 className="text-3xl font-bold text-gray-900 mb-2">
-            🌍 MavunoAI Farm Dashboard
+            🌍 Mavuno Farm Dashboard
           </h1>
           <p className="text-gray-600">
             Real-time agricultural intelligence powered by NASA Earth Observation data

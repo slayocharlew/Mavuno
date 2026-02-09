@@ -7,7 +7,7 @@ import { Suspense } from "react"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "MavunoAI - Smart Farming with NASA Satellite Data",
+  title: "Mavuno - Smart Farming with NASA Satellite Data",
   description: "Empowering African farmers with real-time satellite intelligence for better harvests",
   generator: "v0.app",
 }

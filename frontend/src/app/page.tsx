@@ -7,7 +7,7 @@ export default function HomePage() {
         {/* Header */}
         <div className="text-center mb-16">
           <h1 className="text-5xl font-bold text-gray-900 mb-6">
-            🌍 MavunoAI
+            🌍 Mavuno
           </h1>
           <p className="text-2xl text-gray-600 mb-4">
             Modular Farm Intelligence Platform
