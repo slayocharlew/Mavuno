@@ -1,5 +1,4 @@
-# 🌍 MavunoAI - Modular Farm Intelligence Platform
-## NASA Space Apps Challenge 2025
+# 🌍 Mavuno - Modular Farm Intelligence Platform
 
 ## Quick Start (5 minutes to demo)
 
